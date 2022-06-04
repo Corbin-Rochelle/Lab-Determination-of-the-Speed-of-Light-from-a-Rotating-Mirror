@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.1)  1 MAY 2022 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.1)  6 MAY 2022 00:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -219,7 +219,7 @@ Class revtex4-2 Info: cite was not loaded (OK!) on input line 11.
 Class revtex4-2 Info: mcite was not loaded (OK!) on input line 11.
 Class revtex4-2 Info: multicol was not loaded (OK!) on input line 11.
 
-No file Rotating_Mirror_Corbin_Rochelle.aux.
+(Rotating_Mirror_Corbin_Rochelle.aux)
 \openout1 = `Rotating_Mirror_Corbin_Rochelle.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -264,39 +264,93 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \openout3 = `Rotating_Mirror_Corbin_RochelleNotes.bib'.
 
+ [1{C:/Users/19016/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Canvas/Diagram.jpg, id=16, 3088.338pt x 1363.494pt>
+File: Canvas/Diagram.jpg Graphic file (type jpg)
+<use Canvas/Diagram.jpg>
+Package pdftex.def Info: Canvas/Diagram.jpg  used on input line 118.
+(pdftex.def)             Requested size: 230.86334pt x 101.92474pt.
+
+[2 <./Canvas/Diagram.jpg>]
+<finalgraph.png, id=22, 535.236pt x 294.993pt>
+File: finalgraph.png Graphic file (type png)
+<use finalgraph.png>
+Package pdftex.def Info: finalgraph.png  used on input line 228.
+(pdftex.def)             Requested size: 230.86334pt x 127.23611pt.
+
+Underfull \hbox (badness 5637) in paragraph at lines 240--245
+[]\OT1/cmr/m/n/10 The ac-cepted value of the speed of light is
+ []
+
+[3]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 246.
 
 
-LaTeX Warning: Reference `LastBibItem' on page 1 undefined on input line 49.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 246.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+ \OT1/cmr/m/n/9 4, 2022). $\OT1/cmtt/m/n/9 https : / / lco . global / spacebook
+ / light /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+ \OT1/cmtt/m/n/9 speed-[]light / # : [] : text = Galileo \ %20concluded \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+ \OT1/cmtt/m/n/9 %20that \ %20the \ %20speed ,[] one \ %20person \ %20to \
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 258--259
+ []\OT1/cmr/m/n/9 C. Mc-Fad-den, \OT1/cmr/m/it/9 Physics in a Nut-shell: A Brie
+f His-
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 258--259
+ \OT1/cmr/m/it/9 tory of the Speed of Light\OT1/cmr/m/n/9 , In-ter-est-ing En-g
+i-neer-ing.
+ []
 
 No file Rotating_Mirror_Corbin_Rochelle.bbl.
-[1{C:/Users/19016/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Rotating_Mirror_Corbin_Rochelle.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[4 <./finalgraph.png>] (Rotating_Mirror_Corbin_Rochelle.aux) ) 
 Here is how much of TeX's memory you used:
- 4785 strings out of 478659
- 68898 string characters out of 2845921
- 381445 words of memory out of 3000000
- 22873 multiletter control sequences out of 15000+600000
- 407417 words of font info for 41 fonts, out of 8000000 for 9000
+ 4834 strings out of 478659
+ 69622 string characters out of 2845921
+ 399701 words of memory out of 3000000
+ 22914 multiletter control sequences out of 15000+600000
+ 407584 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,77p,339b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbx9.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr9.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/19016/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/19016/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on Rotating_Mirror_Corbin_Rochelle.pdf (1 page, 86126 bytes).
+ 69i,9n,77p,637b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/19016/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb>
+<C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi9.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/19016/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/19016/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/19016/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/19016/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/User
+s/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+<C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti9.pfb><C:/Users/19016/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmtt9.pfb>
+Output written on Rotating_Mirror_Corbin_Rochelle.pdf (4 pages, 599769 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
